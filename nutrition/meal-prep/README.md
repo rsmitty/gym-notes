@@ -9,3 +9,6 @@ While these recipes will be written to make 5 meals, I actually normally double 
 
 ## Lunch
 - [Philly Cheese Steak Pasta](./philly-cheese-steak-pasta.md)
+
+## Other
+- [Instant Pot Pulled Chicken](./instant-pot-pulled-chicken.md)
